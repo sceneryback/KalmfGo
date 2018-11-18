@@ -1,7 +1,9 @@
 # KalmfGo
 This is Kalman filter in Golang implemention, basically the following 5 equations:
 
-![](resources/filter.png =200x100)
+<p align="left">
+    <img src="resources/filter.png"  width="450" height="300">
+</p>
 
 It uses gonum (https://github.com/gonum/gonum) for matrix manipulations and also provides a ***prettier*** version in chained manner, e.g.:
 ```
